@@ -50,6 +50,7 @@
 * Highlights
 * Shadows
 * Tone curves
+* Colors (Hue, Saturation, Luminance)
 
 ## Youtube Channels to refer 
 
