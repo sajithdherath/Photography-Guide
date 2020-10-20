@@ -19,7 +19,7 @@
 * Histogram
 * Camera Lenses
   * Focul Length
-  * Wide Lenses,
+  * Wide Lenses
   * Prime Lenses
   * Telephoto Lenses 
 
